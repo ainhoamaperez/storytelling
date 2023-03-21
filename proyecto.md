@@ -20,7 +20,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://levok.tumblr.com/post/695929104245096448/for-vogue-scandinavias-inaugural-digital-cover)
+![](https://64.media.tumblr.com/ea74769914ed17e5c13e28268230ccd8/c789454fb22a4167-84/s1280x1920/8834b990d55b974a13d1a1dce20a18ada4219415.png)
 
 Nombre: 
 
