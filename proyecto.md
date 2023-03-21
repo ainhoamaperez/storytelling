@@ -20,7 +20,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://64.media.tumblr.com/ea74769914ed17e5c13e28268230ccd8/c789454fb22a4167-84/s1280x1920/8834b990d55b974a13d1a1dce20a18ada4219415.png)
+![](https://i.pinimg.com/564x/5b/3b/65/5b3b65cb8e9200ebd1d17cdfdd119806.jpg)
 
 Nombre: 
 
