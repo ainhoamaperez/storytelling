@@ -3,7 +3,7 @@
 # Proyecto Storytelling: Dante Elegante
 
 
-Enlace al proyecto original [storytelling] (https://github.com/mgea/storytelling)
+Enlace al proyecto original [storytelling](https://github.com/mgea/storytelling)
 
 Nombre del Equipo: Equipo 1 (Eledantes) 
 
