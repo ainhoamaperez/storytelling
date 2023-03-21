@@ -15,21 +15,28 @@ Tipo/Género:
 - [ ] Comic
 
 
-### Personaje
+### Personajes
 
 ![](https://i.pinimg.com/564x/5b/3b/65/5b3b65cb8e9200ebd1d17cdfdd119806.jpg)
 
 Nombre: Dante Elegante
 
+![](https://i.pinimg.com/564x/f3/aa/13/f3aa1396fa63f0c32f9687f75c1aad86.jpg)
+
+Nombre: Yaco el Capo
+
+![]()
+
+Nombre: Guardaespaldas
 
 ### Historia
 Dante Elegante es un cantante italiano de 22 años, bien reconocido por la población de su país debido a su implicación con las causas sociales. Debido a este motivo, llega a la presidencia de su país. Ya presidente, descubre la relación entre la corrupción que existe en su país y la mafia italiana, pero, ¿él sucumbirá?
 
 ### Contexto
-Nos encontramos en la época actual, en Italia. 
+Nos encontramos en la época actual, en Italia. En nuestra Italia, existe una conexión entre el gobierno y la mafia. Nuestro personaje Dante es un cantante que intenta luchar con las injusticias sociales a través de sus canciones, y, motivado por sus fans, se presenta a la presidencia, las cuales gana. Dentro de la presidencia, poco a poco empieza a conocer todo el entramado mafioso que existe, conociendo a nuestro antagonista, el lider de la mafia, Yaco.
 
 ### Conflicto 
-
+Nuestro conflicto comienza cuando Dante comienza en la presidencia, ya que Yaco se interesa en él (en un principio solo por ser presidente) e intenta que sucumba a la corrupción junto a él. Dante comenzará poco a poco a sentirse atraido por la oscuridad que tiene Yaco y acabará cayendo en la maldad. Mientras que su popularidad empieza a caer pero sus sentimientos están más vivos que nunca, todo acabará trágicamente cuando su guardaespaldas (que también estaba enamorado de Dante) mata a Yaco para proteger no solo a Dante, sino a todo el país.
 
 
 ### Productos
