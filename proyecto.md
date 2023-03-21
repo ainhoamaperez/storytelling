@@ -20,7 +20,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://levok.tumblr.com/post/695929104245096448/for-vogue-scandinavias-inaugural-digital-cover)
 
 Nombre: 
 
