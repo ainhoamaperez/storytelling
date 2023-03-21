@@ -1,7 +1,5 @@
 # storytelling
-
-Esta es la versión de Dani.
-
+Viva Dante Elegante
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2022
 
 Actividades y trabajos prácticos de la asignatura de **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
