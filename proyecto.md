@@ -15,9 +15,6 @@ Tipo/Género:
 - [ ] Comic
 
 
-## Resumen
-
-
 ### Personaje
 
 ![](https://i.pinimg.com/564x/5b/3b/65/5b3b65cb8e9200ebd1d17cdfdd119806.jpg)
@@ -26,10 +23,10 @@ Nombre: Dante Elegante
 
 
 ### Historia
-
+Dante Elegante es un cantante italiano de 22 años, bien reconocido por la población de su país debido a su implicación con las causas sociales. Debido a este motivo, llega a la presidencia de su país. Ya presidente, descubre la relación entre la corrupción que existe en su país y la mafia italiana, pero, ¿él sucumbirá?
 
 ### Contexto
-
+Nos encontramos en la época actual, en Italia. 
 
 ### Conflicto 
 
@@ -60,10 +57,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: dani
-- :woman: ainhoa
-- :woman: miranda 
-- 👨‍🦲: miguel
+- :man: Dani Valiente Vallejo
+- :woman: Ainhoa Martínez Pérez
+- :woman: Miranda López Rus 
+- 👨‍🦲: Miguel Cabeza López
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
