@@ -41,7 +41,7 @@ Nuestro conflicto comienza cuando Dante comienza en la presidencia, ya que Yaco 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: [Su vida en fotos](https://danteelegante.h5p.com/content/1291908430335143377)
 
 
 - Banner/Teaser:  (enlace) 
