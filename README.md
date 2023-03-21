@@ -1,5 +1,4 @@
 # storytelling
-
 Viva Dante Elegante
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2022
 

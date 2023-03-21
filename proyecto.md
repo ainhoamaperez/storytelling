@@ -1,14 +1,14 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling: Dante Elegante
 
-Nombre del Equipo: 
+Nombre del Equipo: Equipo 1 (Eledantes) 
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
