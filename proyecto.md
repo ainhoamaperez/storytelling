@@ -18,14 +18,18 @@ Tipo/Género:
 ### Personajes
 
 ![](https://i.pinimg.com/564x/5b/3b/65/5b3b65cb8e9200ebd1d17cdfdd119806.jpg)
+![](https://i.postimg.cc/RhwZZfwb/Dante-infografia.png)
 
 Nombre: Dante Elegante
 
 ![](https://i.pinimg.com/564x/f3/aa/13/f3aa1396fa63f0c32f9687f75c1aad86.jpg)
+![](https://i.postimg.cc/P5SrJd8h/Yaco-infograf-a.png)
+
 
 Nombre: Yaco el Capo
 
 ![](https://i.pinimg.com/564x/ab/fa/f3/abfaf301b8d59e7497fdf68faef438fe.jpg)
+![](https://i.postimg.cc/CKdMf9j8/Olaf-infografia.png)
 
 Nombre:Olaf el Escolta
 
