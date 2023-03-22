@@ -29,9 +29,11 @@ Nombre: Dante Elegante
 Nombre: Yaco el Capo
 
 ![](https://i.pinimg.com/564x/ab/fa/f3/abfaf301b8d59e7497fdf68faef438fe.jpg)
-![](https://i.postimg.cc/CKdMf9j8/Olaf-infografia.png)
+
 
 Nombre:Olaf el Escolta
+
+![](https://i.postimg.cc/CKdMf9j8/Olaf-infografia.png)
 
 ### Historia
 Dante Elegante es un cantante italiano de 22 años, bien reconocido por la población de su país debido a su implicación con las causas sociales. Debido a este motivo, llega a la presidencia de su país. Ya presidente, descubre la relación entre la corrupción que existe en su país y la mafia italiana, pero, ¿él sucumbirá?
