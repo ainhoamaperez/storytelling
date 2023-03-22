@@ -29,7 +29,7 @@ Nombre: Dante Elegante
 Nombre: Yaco el Capo
 
 ![](https://i.pinimg.com/564x/ab/fa/f3/abfaf301b8d59e7497fdf68faef438fe.jpg)
-![](https://i.postimg.cc/CKdMf9j8/Olaf-infografia.png) 
+![](https://raw.githubusercontent.com/ainhoamaperez/storytelling/master/Olaf%20infografia.png) 
 
 
 Nombre:Olaf el Escolta
