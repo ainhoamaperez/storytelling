@@ -61,7 +61,6 @@ Nuestro conflicto comienza cuando Dante comienza en la presidencia, ya que Yaco 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
-
 Autores:  
 <!---
 Incluir lista de personas del grupo 
@@ -73,7 +72,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Miranda López Rus 
 - 👨‍🦲: Miguel Cabeza López
 
-
+------
 # storytelling
 Viva Dante Elegante
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2022
