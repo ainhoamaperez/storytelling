@@ -48,7 +48,8 @@ Nuestro conflicto comienza cuando Dante comienza en la presidencia, ya que Yaco 
 - Personaje: [Su vida en fotos](https://danteelegante.h5p.com/content/1291908430335143377) , [¿Qué canción de Dante eres?](https://ainhoamaperez.h5p.com/content/1291909224213227577) , [¿Qué personaje eres?](https://h5p.org/node/1368749?feed_me=nps) 
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  [Protopie](https://cloud.protopie.io/p/e7ba4fa7c75ca5bbf6a82ecd) [Arcweave](https://arcweave.com/app/project/25lbqym0D4)
+
 
 
 - Storytelling: (enlace) 
